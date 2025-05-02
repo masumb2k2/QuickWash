@@ -2,7 +2,6 @@
 
 **QuickWash** is an innovative mobile application that streamlines the car wash booking process. Built with Flutter and powered by Firebase, it offers a seamless experience for both car owners and washers, facilitating easy service bookings and real-time communication.
 
-![QuickWash Banner]([https://your-image-link.com/banner.png)](https://github.com/masumb2k2/QuickWash/blob/main/assets/images/splash.jpg) 
 
 ---
 
@@ -77,16 +76,6 @@
    ```
 
 
-
----
-
-## 📸 Screenshots
-
-<!-- Replace with actual screenshots -->
-
-![Home Screen](https://your-image-link.com/home.png)
-![Booking Screen](https://your-image-link.com/booking.png)
-![Chat Screen](https://your-image-link.com/chat.png)
 
 ---
 
