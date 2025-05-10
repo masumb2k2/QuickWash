@@ -12,14 +12,14 @@
 * **Browse Washers**: View a list of available car washers in your vicinity.
 * **Book Services**: Schedule car wash services at your convenience.
 * **Real-Time Chat**: Communicate directly with washers for updates and inquiries.
-* **Booking Management**: Track and manage your service bookings effortlessly.([GitHub][1], [Bitrix Infotech][2])
+* **Booking Management**: Track and manage your service bookings effortlessly.
 
 ### For Washers
 
 * **Manage Availability**: Set your working hours and service areas.
 * **Confirm Bookings**: Accept or decline service requests based on your schedule.
 * **Customer Communication**: Engage with clients through in-app messaging.
-* **Service History**: Keep track of completed and upcoming services.([Appic Softwares][3])
+* **Service History**: Keep track of completed and upcoming services.
 
 ---
 
@@ -28,7 +28,7 @@
 * **Frontend**: Flutter (Dart)
 * **Backend**: Firebase (Authentication, Firestore, Cloud Functions)
 * **State Management**: Provider / Bloc (choose one based on your implementation)
-* **Maps Integration**: Google Maps API for location services([GitHub][4], [GitHub][1])
+* **Maps Integration**: Google Maps API for location services.
 
 ---
 
@@ -39,7 +39,7 @@
 * Flutter SDK installed
 * Firebase project setup
 * Android Studio or VS Code
-* Google Maps API Key([Appic Softwares][3])
+* Google Maps API Key
 
 ### Installation
 
